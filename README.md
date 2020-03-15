@@ -9,4 +9,7 @@ A graphical application to provide a visual sensation to your music!
 
 ```bash
 go get github.com/tsteinholz/visation
+cd $GOPATH/src/github.com/tsteinholz/visation/desktop
+go build
+./visation
 ```
