@@ -1,3 +1,6 @@
+![Visation Header](https://github.com/tsteinholz/visation/raw/master/res/visation-header.png)
+A graphical application to provide a visual sensation to your music!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tsteinholz/visation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
