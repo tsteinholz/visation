@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-![Visation Header](https://github.com/tsteinholz/visation/raw/master/res/visation-header.png)
-=======
 ![Visation Header](https:/github.com/tsteinholz/visation/.github/visation-header.png)
->>>>>>> Stashed changes
 A graphical application to provide a visual sensation to your music!
 
 ## Building
