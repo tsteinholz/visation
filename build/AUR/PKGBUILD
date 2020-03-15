@@ -1,0 +1,20 @@
+# Contributor: tsteinholz@gmail.com 
+
+pkgname=pd-template
+pkgver=version
+pkgrel=1
+pkgdesc="External for Pure Data. Describe functionality in on sentence."
+arch=('i686' 'x86_64')
+url="http://your-site.html"
+depends=('pd')
+license=('GPL3')
+groups=('pd-externals')
+source=('http://soucre.at/${pkgname}-${pkgver}')
+
+md5sums=('--------------------------------') # generat with makepkg -g >> PKGBUILD
+
+build() {
+  cd ${srcdir}/template-version
+  make
+  make DESTDIR=$startdir/pkg prefix=/usr install
+}
