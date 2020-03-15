@@ -1,0 +1,63 @@
+<PackagingLayout xmlns="http://schemas.microsoft.com/appx/makeappx/2017">
+  <!-- Main game -->
+  <PackageFamily ID="MyGame" FlatBundle="true" ManifestPath="C:\mygame\appxmanifest.xml" ResourceManager="false">
+    
+    <!-- x64 code package-->
+    <Package ID="x64" ProcessorArchitecture="x64">
+      <Files>
+        <File DestinationPath="*" SourcePath="C:\mygame\*"/>
+        <File ExcludePath="*C:\mygame\*.txt"/>
+      </Files>
+    </Package>
+
+    <!-- Media asset package -->
+    <AssetPackage ID="Media" AllowExecution="false">
+      <Files>
+        <File DestinationPath="Media\**" SourcePath="C:\mygame\media\**"/>
+      </Files>
+    </AssetPackage>
+    
+    <!-- English resource package -->
+    <ResourcePackage ID="en">
+      <Files>
+        <File DestinationPath="english\**" SourcePath="C:\mygame\english\**"/>
+      </Files>
+      <Resources Default="true">
+        <Resource Language="en"/>
+      </Resources>
+    </ResourcePackage>
+
+    <!-- French resource package -->
+    <ResourcePackage ID="fr">
+      <Files>
+        <File DestinationPath="french\**" SourcePath="C:\mygame\french\**"/>
+      </Files>
+      <Resources>
+        <Resource Language="fr"/>
+      </Resources>
+    </ResourcePackage>
+  </PackageFamily>
+
+  <!-- DLC in the related set -->
+  <PackageFamily ID="DLC" Optional="true" ManifestPath="C:\DLC\appxmanifest.xml">
+    <Package ID="DLC.x86" Architecture="x86">
+      <Files>
+        <File DestinationPath="**" SourcePath="C:\DLC\**"/>
+      </Files>
+    </Package>
+  </PackageFamily>
+
+  <!-- DLC not part of the related set -->
+  <PackageFamily ID="Themes" Optional="true" RelatedSet="false" ManifestPath="C:\themes\appxmanifest.xml">
+    <Package ID="Themes.main" Architecture="neutral">
+      <Files>
+        <File DestinationPath="**" SourcePath="C:\themes\**"/>
+      </Files>
+    </Package>
+  </PackageFamily>
+
+  <!-- Existing packages that need to be included/referenced in the bundle -->
+  <PrebuiltPackage Path="C:\prebuilt\DLC2.appxbundle" />
+
+</PackagingLayout>
+
