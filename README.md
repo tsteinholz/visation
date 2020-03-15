@@ -12,9 +12,7 @@ go get github.com/tsteinholz/visation
 
 ### Linux
 
-#### Dependancies
-
-For Ubuntu...
+#### Ubuntu
 ```bash
 sudo apt-get install libgl1-mesa-dev \
                      xorg-dev \
