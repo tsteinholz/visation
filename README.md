@@ -1,4 +1,4 @@
-![Visation Header](https://github.com/tsteinholz/visation/raw/master/.github/visation-header.png)
+![Visation Header](https://github.com/tsteinholz/visation/raw/master/.github/visation-header2.png)
 A graphical application to provide a visual sensation to your music!
 
 ## Building
