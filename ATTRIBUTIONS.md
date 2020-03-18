@@ -488,7 +488,8 @@ This work has been released into the public domain by its author, Psychonaught a
 In case this is not legally possible:
 Psychonaught grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
 ```
-
+| Attribute | Value |
+| --------  |  ---- |
 | **Name** | Nitrous Oxide on LSD |
 | **Author** | [Psychonaught](https://en.wikipedia.org/wiki/User:Psychonaught) |
 | **Source** | This image was copied from [English Wikipedia](https://commons.wikimedia.org/wiki/File:Trippy.jpg). |
