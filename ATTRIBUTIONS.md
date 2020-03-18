@@ -484,9 +484,12 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 *Work has been modified: scaled with overlaying text.*
 
 ```
-This work has been released into the public domain by its author, Psychonaught at the Wikipedia project. This applies worldwide.
+This work has been released into the public domain by its author,
+Psychonaught at the Wikipedia project. This applies worldwide.
+
 In case this is not legally possible:
-Psychonaught grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+Psychonaught grants anyone the right to use this work for any purpose,
+without any conditions, unless such conditions are required by law.
 ```
 | Attribute | Value |
 | --------  |  ---- |
