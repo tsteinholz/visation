@@ -10,6 +10,7 @@
   * [ShaderC](#sharderc)
   * [Vulkan-Go](#vulkan-go)
 - [Images](#images)
+  * [FavIcon](#favicon)
   * [Visation Background](#visation-background)
 
 # APIs
@@ -478,6 +479,16 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
 
 ## Images
+
+### Favicon
+
+License to use [Creative Commons Zero - CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+| Attribute | Value |
+| --------  |  ---- |
+| **Name** | OJDUD |
+| **Author** | [PX Fuel](https://www.pxfuel.com/) |
+| **Source** | https://www.pxfuel.com/en/free-photo-ojdud |
 
 ### Visation Background
 
