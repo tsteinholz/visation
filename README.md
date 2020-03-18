@@ -1,9 +1,10 @@
 ![Visation Header](https://github.com/tsteinholz/visation/raw/master/.github/visation-header2.png)
 A graphical application to provide a visual sensation to your music!
 
+![](https://api.travis-ci.org/tsteinholz/visation.svg?branch=master) ![](https://goreportcard.com/badge/github.com/tsteinholz/visation) ![](https://www.codefactor.io/Content/badges/APlus.svg)
+
 ## Building
 
-![](https://api.travis-ci.org/tsteinholz/visation.svg?branch=master)
 1. [Install Go](https://golang.org/doc/install)
 2. [Install Vulkan SDK](https://vulkan.lunarg.com/doc/view/1.1.106.0/linux/getting_started.html)
 2. Clone & Build...
