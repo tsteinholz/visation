@@ -10,7 +10,7 @@
   * [ShaderC](#sharderc)
   * [Vulkan-Go](#vulkan-go)
 - [Images](#images)
-  * [FavIcon](#favicon)
+  * [Favicon](#favicon)
   * [Visation Background](#visation-background)
 
 # APIs
@@ -486,7 +486,6 @@ License to use [Creative Commons Zero - CC0](https://creativecommons.org/publicd
 
 | Attribute | Value |
 | --------  |  ---- |
-| **Name** | OJDUD |
 | **Author** | [PX Fuel](https://www.pxfuel.com/) |
 | **Source** | https://www.pxfuel.com/en/free-photo-ojdud |
 
