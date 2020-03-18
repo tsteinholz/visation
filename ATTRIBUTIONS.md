@@ -9,6 +9,8 @@
   * [DirectX Shader Compilier](#directx-shader-compiler)
   * [ShaderC](#sharderc)
   * [Vulkan-Go](#vulkan-go)
+- [Images]
+  * [Visation Background](#visation-background)
 
 # APIs
 
@@ -474,3 +476,20 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
+
+## Images
+
+### Visation Background
+
+*Work has been modified: scaled with overlaying text.*
+
+```
+This work has been released into the public domain by its author, Psychonaught at the Wikipedia project. This applies worldwide.
+In case this is not legally possible:
+Psychonaught grants anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+```
+
+| **Name** | Nitrous Oxide on LSD |
+| **Author** | [Psychonaught](https://en.wikipedia.org/wiki/User:Psychonaught) |
+| **Source** | This image was copied from [English Wikipedia](https://commons.wikimedia.org/wiki/File:Trippy.jpg). |
+| **Date** | 23 August 2009 |
